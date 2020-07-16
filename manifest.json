@@ -1,11 +1,10 @@
 {
   "name": "backend-course",
   "vendor": "vtex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Backend Course",
   "description": "Reference app for the Backend Course",
   "builders": {
-    "docs": "0.x",
     "node": "6.x"
   },
   "scripts": {
