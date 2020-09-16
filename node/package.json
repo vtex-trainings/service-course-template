@@ -11,6 +11,9 @@
     "prettier": "^1.18.2",
     "typescript": "3.8.3"
   },
+  "resolutions": {
+    "**/**/lodash": "^4.17.19"
+  },
   "scripts": {
     "lint": "tsc --noEmit --pretty && eslint -c .eslintrc.json --fix './**/*.ts'"
   },
